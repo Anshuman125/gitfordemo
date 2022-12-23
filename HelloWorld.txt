@@ -1,0 +1,4 @@
+Hello World!
+
+This is my first program in git
+it looks like fun tho to be honest.
